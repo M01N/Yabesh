@@ -1,4 +1,4 @@
-package com.m01nyabesh.yabesh;
+package com.;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
